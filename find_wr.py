@@ -25,7 +25,7 @@ def find_wr(e):
             return a
     return []
 
-file = open("./def.txt", 'w')
+file = open("./.def.txt", 'w')
 retcode = -1
 if len(sys.argv) > 1:
     word = sys.argv[1]
