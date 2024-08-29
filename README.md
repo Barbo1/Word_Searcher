@@ -6,6 +6,3 @@ Is useful to now that, because **WordReference** have a *"general ditcionary"*(l
 
 # Specific functionality
 Some things I think will be useful to now: 1) the searching process in the internet is made by **python**'s library **BeautifulSoap**, 2) the *"conection"* between **Python** and **C++** is made by a file named *.defs.txt* that store the words finded(please don't remove it).
-
-# Word Reference
-In spite of be a little transparent, and for the sake of safety, I want to say that this is not an intent of made somthing harmful to the online dictionary. This is not a malitious bot. I don't realy now if there is a problem with the **WordReference** right's(I don't think so), but if there is, I will take off the repository.
